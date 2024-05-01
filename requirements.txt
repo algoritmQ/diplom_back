@@ -1,0 +1,15 @@
+asgiref==3.6.0
+Django==4.2.1
+django-cors-headers==4.0.0
+djangorestframework==3.14.0
+djangorestframework-jwt==1.11.0
+djangorestframework-simplejwt==5.2.2
+grpcio==1.55.0
+grpcio-tools==1.55.0
+mysqlclient==2.1.1
+Pillow==9.5.0
+protobuf==4.23.1
+PyJWT==1.7.1
+PyMySQL==1.0.3
+pytz==2023.3
+sqlparse==0.4.4
